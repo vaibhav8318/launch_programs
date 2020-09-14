@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #f7f7f7;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 16px 10px;
+}
+
+h4 {
+  margin: 5px 0;
+}
+
+.mt_10 {
+  margin-top: 10px;
+}
+.mb_10 {
+  margin-bottom: 10px;
+}
+
+.full_width {
+  width: 100%;
+}
+
+.text_center {
+  text-align: center;
+}
+
+.display_flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex_row {
+  flex-direction: row;
+}

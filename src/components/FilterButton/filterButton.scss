@@ -1,0 +1,26 @@
+.filter {
+  cursor: pointer;
+  padding: 5px 10px;
+  color: white;
+}
+.normal_filter {
+  background-color: #05cc05;
+}
+
+.selected_filter {
+  background-color: #049604;
+}
+
+@media only screen and (max-width: 1024px) {
+  .filter {
+    margin: 5px;
+    padding: 5px 8px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .filter {
+    padding: 15px 20px;
+    margin: 10px;
+  }
+}
