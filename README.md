@@ -64,5 +64,5 @@ To start application in development environment.
     Builds the server-build for production to the `server` folder.
 
   `node server/server.js`
-    Runs the production build.
+    Runs the production build. Open `http://localhost:8079` to view it in the browser.
 
